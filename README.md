@@ -58,4 +58,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stpnst164&hide_progress=true" align="center" />
 </div>
 
+
+## Статистика по часам
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stpnst164)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>  
