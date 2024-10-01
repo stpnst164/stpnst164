@@ -55,7 +55,7 @@
 
 ## Часто используемые технологии
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stpnst164&hide_progress=true)
+<img ![Top Langs] src="https://github-readme-stats.vercel.app/api/top-langs/?username=stpnst164&hide_progress=true" align="center" />
 </div>
 
 <br/>  
