@@ -53,6 +53,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stpnst164&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-
+## Часто используемые технологии
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stpnst164&hide_progress=true)
+</div>
+
 <br/>  
