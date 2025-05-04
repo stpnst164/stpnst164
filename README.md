@@ -24,6 +24,8 @@
 
 ### Backend  
 <div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="C:\Users\User\Downloads\e19e2d65-1160-4461-a043-8511aabf2be6.jpg" alt="PHP" height="50" /></a>  
+<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="C:\Users\User\Downloads\Symfony, Framework PHP de alto rendimiento para el….jpg" alt="Symfony" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
